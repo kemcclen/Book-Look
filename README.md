@@ -70,8 +70,8 @@ Please note that by submitting a pull request, you agree to allow the project ma
 Thank you for considering contributing to Book Look. Your contributions are highly appreciated!
 
 ## Links:
-- Repository: [Link to Repository](repository-link-goes-here)
-- Deployed Application: [Link to Deployed Application](deployed-application-link-goes-here)
+- Repository: https://github.com/kemcclen/Book-Look/
+- Deployed Application: https://booklooksearch-2a41b6963e2e.herokuapp.com/
 
 ## Technologies
 
