@@ -19,6 +19,8 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "apollo-server-express": "^3.11.1",
     "express": "^4.17.2",
-    "graphql": "^15.8.0"
+    "graphql": "^15.8.0",
+    "heroku": "^8.1.9",
+    "mongodb": "^5.7.0"
   }
 }
